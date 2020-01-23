@@ -1,7 +1,4 @@
 def naming_system
-de we should be able to "tunnel" into the
-  # HoH all the way to Species!
-
   species = {
     sub_category: {
       sub_category: {
